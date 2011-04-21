@@ -1,0 +1,22 @@
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\bin\Release\vRig.exe
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\bin\Release\vRig.pdb
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Release\Interop.CIV756P_Control.dll
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.csproj.ResolveComReference.cache
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.Form1.resources
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.Properties.Resources.resources
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.exe
+C:\Users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.pdb
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.csproj.ResolveComReference.cache
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.exe
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.pdb
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\bin\Release\vRig.exe
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\bin\Release\vRig.pdb
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\obj\x86\Release\Interop.CIV756P_Control.dll
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.Form1.resources
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\obj\x86\Release\vRig.Properties.Resources.resources
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Matthew Chambers\Documents\Visual Studio 2010\Projects\vRig\vRig\obj\x86\Release\GenerateResource.write.1.tlog

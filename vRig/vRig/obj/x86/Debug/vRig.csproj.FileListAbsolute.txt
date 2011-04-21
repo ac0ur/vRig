@@ -1,0 +1,11 @@
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\bin\Debug\vRig.exe
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\bin\Debug\vRig.pdb
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Debug\vRig.Form1.resources
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Debug\vRig.Properties.Resources.resources
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Debug\vRig.exe
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Debug\vRig.pdb
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Debug\Interop.CIV756P_Control.dll
+c:\users\mchambers\documents\visual studio 2010\Projects\vRig\vRig\obj\x86\Debug\vRig.csproj.ResolveComReference.cache

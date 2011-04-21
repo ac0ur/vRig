@@ -1,0 +1,13 @@
+vRig is a Windows C# / .NET 4.0 application to communicate with
+with modern amateur radio transcievers using RS-232 / CAT protocols.
+The 1.0 version of vRig only supports Icom based transcievers.
+Support for other makes and models is anticipated.
+
+Public release of vRig is through http://w1jeq.net/software/ and
+I hope to include many ideas and options that are brought to the
+project through the open source community.
+
+For more info on this project you are welcome to email me at
+mchambers@w1jeq.net with your questions and comments.
+
+73s de Matthew ACØUR
